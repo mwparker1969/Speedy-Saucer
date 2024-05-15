@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://d342p64k6whvb"]
+
+[ext_resource type="Texture2D" uid="uid://ddc0xf7pronl2" path="res://ufoGreen.png" id="1_vhx0m"]
+
+[node name="Player" type="RigidBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_vhx0m")
